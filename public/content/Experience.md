@@ -1,29 +1,9 @@
 ## LunchUP
-- *Font End Develper* | Jan'23 - Feb'23
+- *Font End Develper* | Ago'24 - Jun'24
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: LunchUP
 - Badges:
-  - Badge [blue]
+  - Badge [green]
 - List Items:
-  - Point 1
-  - Point 2
-
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
-
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+  - Desarrollo de componenetes como Cards, Form, Historila de compras, Sistema de Ranking
+  - Tecnologias usadas: React, Node.js, Boostrap, Express, Axios, Redux, Auth0.
