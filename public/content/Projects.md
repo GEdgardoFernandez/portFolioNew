@@ -1,5 +1,5 @@
 ## LunchUP
-Description: SPA para gestion de venta de alimnentos en los buffets de las escuelas.
+SPA para la venta de comida en los buffets de las escuelas.
 - ![lunch600](https://i.ibb.co/PwvsH3D/lunch600.png)
 - Tags: LunchUP
 - Badges:
@@ -7,19 +7,19 @@ Description: SPA para gestion de venta de alimnentos en los buffets de las escue
 - Buttons:
   - Link [https://lunchuppf.netlify.app/]
 
-## Project B
-Description
-- ![lunch600](/src/Assets/img/capProyects/lunch600.png)
-- Tags: Category 2
+## GameAPP
+SPA de informacion sobre video juegos, proyecto para rendir en Henry
+- ![GameAPP](https://i.ibb.co/sKq25pc/appgame1.png)
+- Tags: GameAPP
 - Badges:
-  - Badge [blue]
+  - Badge [red]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/GEdgardoFernandez/gameappeando]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## RickAndMortyAPP
+SPA tipo Wiki sobre Rick and Morty, proyecto individual de Henry.
+- ![RandM](https://i.ibb.co/fN8sPks/rickandmorty3.png)
+- Tags: RickAPP
 - Badges:
   - Badge [blue]
 - Buttons:
